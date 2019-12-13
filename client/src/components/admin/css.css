@@ -1,0 +1,25 @@
+.logContainer {
+    height:350px;
+    width:350px;
+    margin: 0 auto;
+}
+.logContainer h2{
+    text-align: center;
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.formContainer input {
+    width: 100%;
+    margin: 0 auto;
+}
+.bootbutton {
+    display: flex;
+}
+.second {
+    flex: 1;
+    padding: 10px;
+}
+.first {
+    padding: 10px;
+}
